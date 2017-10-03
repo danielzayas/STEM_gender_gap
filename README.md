@@ -1,5 +1,7 @@
 # Earnings by College Major: Quantifying the STEM Gender Gap
 
+by Daniel Zayas
+
 ### Summary
 * 58% of college students are women
 * There is no correlation between major popularity and earnings
