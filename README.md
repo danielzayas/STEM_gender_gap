@@ -1,6 +1,6 @@
 # Earnings by College Major: Quantifying the STEM Gender Gap
 
-by Daniel Zayas
+by Daniel Zayas & Ivan Rodriguez
 
 ### Summary
 * 58% of college students are women
