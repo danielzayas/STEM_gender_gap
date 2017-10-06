@@ -10,6 +10,12 @@ by Daniel Zayas & Ivan Rodriguez
 * Grouping majors by their category, the 1) Engineering and 2) Computers & Mathematics categories have the highest earnings. They are 76% and 70% male, respectively
 * Part 2 uses a timeseries dataset to show the variation in share of men/women from 1970 to 2012
 
+![share of men and women by major category](https://user-images.githubusercontent.com/31169718/31291783-bf91897a-aa85-11e7-8b4a-64fe09d35527.png)
+
+![average earnings by major category](https://user-images.githubusercontent.com/31169718/31291792-cfa317a2-aa85-11e7-8818-e6fbc004e81e.png)
+
+![stem_gender_gap_timeseries](https://user-images.githubusercontent.com/31169718/31291797-d5e81aae-aa85-11e7-82e3-5f34c422182a.png)
+
 ### Sources
 American Community Survey (ACS) conducts surveys, aggregates the data, and makes the data available to the public via the United States Census Bureau website. The raw data on earnings by college majors is available in the "2010-2012 ACS 3-year PUMS" survey, which can be downloaded [here](https://www.census.gov/programs-surveys/acs/data/pums.html).  
 
