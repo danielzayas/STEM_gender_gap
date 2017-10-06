@@ -9,13 +9,6 @@ by Daniel Zayas & Ivan Rodriguez
 * All of the lowest-earning majors are majority-female, and 6 out of 10 have 80% women or more
 * Grouping majors by their category, the 1) Engineering and 2) Computers & Mathematics categories have the highest earnings. They are 76% and 70% male, respectively
 * Part 2 uses a timeseries dataset to show the variation in share of men/women from 1970 to 2012
-  
-  
-![College%20Degrees%20by%20Major%20Category,%202010-2012.png](attachment:College%20Degrees%20by%20Major%20Category,%202010-2012.png)  
-
-![Average%20Earnings%20by%20Major%20Category.png](attachment:Average%20Earnings%20by%20Major%20Category.png)  
-
-![STEM_gender_gap_timeseries.png](attachment:STEM_gender_gap_timeseries.png)
 
 ### Sources
 American Community Survey (ACS) conducts surveys, aggregates the data, and makes the data available to the public via the United States Census Bureau website. The raw data on earnings by college majors is available in the "2010-2012 ACS 3-year PUMS" survey, which can be downloaded [here](https://www.census.gov/programs-surveys/acs/data/pums.html).  
