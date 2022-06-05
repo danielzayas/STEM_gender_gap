@@ -3,10 +3,7 @@
 by Daniel Zayas & Ivan Rodriguez
 
 ### Summary
-* 58% of college students are women
-* There is no correlation between major popularity and earnings
-* 7 out of 10 of the top-earning majors have 20% women or less
-* All of the lowest-earning majors are majority-female, and 6 out of 10 have 80% women or more
+* 58% of college students are women, but only 7 out of 10 of the top-earning majors have 20% women or less
 * Grouping majors by their category, the 1) Engineering and 2) Computers & Mathematics categories have the highest earnings. They are 76% and 70% male, respectively
 * Part 2 uses a timeseries dataset to show the variation in share of men/women from 1970 to 2012
 
